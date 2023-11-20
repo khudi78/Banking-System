@@ -24,7 +24,7 @@ C:\xampp\htdocs\
 - Open Xamp Control Panel. Click on Start button near Apache and MySQL.
 - Open browser type the following into search bar.
 ```
-http://localhost/Sparks-Foundation/firsttime.php
+http://localhost/Sparks-Foundation/index.php
 ```
 - If everything works fine you would see this on your browser.
 ```
@@ -48,7 +48,7 @@ OR
 http://localhost/Sparks-Foundation/index.php
 ```
 - You will land to Homepage of Money Bank Website.
-- Click On `View all Customer` from Navigation OR `Get Started` button for viewing detail of all Customers.
+- Click On `View all Customer` from Navigation OR `VIEW ALL CUSTOMERS` button for viewing detail of all Customers.
 - You will see Customer details in table with deatils like(Name, Email, Current balance, etc.).
 - Click on `Send` Button Corresponding Any row of table.
 - Now We are on Money Transfering Page. Now Enter a Valid Name in `To` textbox and also Enter Amount, Click on checkbox and finally Click on `Send` Button To Start Transfer.
