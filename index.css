@@ -1,0 +1,65 @@
+.bg-image{
+    width: 100%;
+    background-image: url("https://images.moneycontrol.com/static-mcnews/2022/09/Savings-accounts-2-2.png");
+
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(3px);
+
+  /* Full height */
+  height: 700px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.box {
+    background-color: rgba(0,0,0, 0.4);
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    height: 550px;
+    width: 430px;
+    margin-top: 35px;
+    box-shadow: 8px 13px 20px black;
+
+  
+  }
+  .box:hover{
+    width: 440px;
+    height: 565px;
+  }
+ .first{
+    margin-left: -311px;
+ }
+  .second{
+    margin-left:350px;
+  }
+  .img{
+    height: 200px;
+    margin-top: 45px;
+    margin-left: 111px;
+  }
+  .para{
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 15px;
+    font-size: 20px;
+  }
+  .head{
+    color: black;
+    text-transform: uppercase;
+    font-size: 23px;
+
+  }
+  .in-box{
+    margin-top: 90px;
+    text-align: center;
+
+  }

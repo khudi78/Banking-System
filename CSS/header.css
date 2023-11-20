@@ -1,0 +1,14 @@
+.topbar{
+    background-color: rgb(220, 35, 35);
+}
+ul{
+   text-decoration: none;
+}
+.name{
+   color: white;
+   text-decoration: none;
+}
+.navi{
+   display: flex;
+   background-color: blueviolet;
+}
